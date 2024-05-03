@@ -7,4 +7,4 @@ def floor(n: float) -> int:
 
     """output floor value"""
 
-    return int(a)
+    return int(n)
