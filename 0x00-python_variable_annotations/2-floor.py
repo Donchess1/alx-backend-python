@@ -2,7 +2,9 @@
 
 """function to round off"""
 
-def floor(n: floar)->int:
+
+def floor(n: float) -> int:
+
     """output floor value"""
 
     return int(a)

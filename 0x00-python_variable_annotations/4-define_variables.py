@@ -2,7 +2,7 @@
 
 """annotate the values"""
 
-a:int = 1
+a: int = 1
 pi: float = 3.14
 i_understand_annotaions: bool = True
-school:str = "Holberton"
+school: str = "Holberton"
